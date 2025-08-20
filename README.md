@@ -5,9 +5,9 @@ My name is Maxim, and I'm interested in programming.
 
 # Python <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" width="35"/>
 I heavily use Python for projects I want done quickly. I am currently working on 2 discord bots for a Roblox game marketplace where you can sell your source code, and I am working on a **Discord** bot that bans people from both **Discord** and Roblox.
-# Rust <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="Rust Logo" width="35" />
+# Rust <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="Rust Logo" width="50" />
 I like to use Rust for more efficient applications. In this language, I do everything that comes to mind just to make the code run 1 ms faster. My last project was a fast stock screener.
-# Roblox (luau) <img src="https://static.wikia.nocookie.net/logopedia/images/5/58/Roblox_2022.svg/revision/latest?cb=20250706153200" alt="Roblox logo" width="35" />
+# Roblox (luau) <img src="https://static.wikia.nocookie.net/logopedia/images/5/58/Roblox_2022.svg/revision/latest?cb=20250706153200" alt="Roblox logo" width="200" />
 I code in Roblox luau to create games. Currently I am working on a Roblox game called Neverhome, a Roblox backrooms inspired horror story game. https://discord.gg/mjAkrqCGp6
 <!--
 **maximnota/maximnota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
